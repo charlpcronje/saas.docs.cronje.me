@@ -27,7 +27,15 @@ tags: [saas,software,service,hosted,online,self hosted,service,linux,monthly,yea
 
 - [Animatron Lite](animatron.md)
 - [Wave Video](wave.video.md)
-
-
-
-
+- [Animaker](https://www.animaker.com/slideshow-video-maker)
+- [Animaker Show](https://accounts.animaker.com/register/show/?trackId=c2hvdy1ob21l)
+- [Moovly](https://www.moovly.com/)
+- [The Draw Shop](https://thedrawshop.com/)
+- [Explee](https://thedrawshop.com/)
+- [PowToon](https://www.powtoon.com/)
+- [Easy Sketch Pro](https://easysketchpro.com/)
+- [GoAnimate](http://goanimateold.herokuapp.com/html/videomaker.html)
+- [VideoScribe](https://www.videoscribe.co/en/)
+- [Vyond](https://www.vyond.com/?ref=hf-4204&hf_tran_id=10218397db0f3096d2253e2219ebdc)
+- [Explaindio](http://explaindio.com/v4-fe/)
+- [Renderforest](https://www.renderforest.com/)
