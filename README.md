@@ -1,12 +1,12 @@
 ---
-title: Software as a Service - DEVserv.ME
+title: Software as a Service - CRONje.ME
 label: Software as a Service
 order: 100
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
+    email: charl@CRONje.ME
+    link: https://charl-cv.CRONje.ME
+    avatar: https://assets.CRONje.ME/avatars/darker.jpg
 tags: [saas,software,service,hosted,online,self hosted,service,linux,monthly,yearly,subscriptions]
 ---
 
@@ -21,5 +21,5 @@ tags: [saas,software,service,hosted,online,self hosted,service,linux,monthly,yea
 01000101  01010110  00101110  01001101  01000101 
 ```
 
-- This repo will become a sub-module of docs.devserv.me.
+- This repo will become a sub-module of docs.CRONje.ME.
 - Go to [./src/README.md](./src/README.md) for the root of this repo

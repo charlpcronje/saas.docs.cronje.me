@@ -1,12 +1,12 @@
 ---
-Title: SaaS Software as a Service | DEVserv.ME
+Title: SaaS Software as a Service | CRONje.ME
 label: Software as a Service
 order: 180
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
+    email: charl@CRONje.ME
+    link: https://charl-cv.CRONje.ME
+    avatar: https://assets.CRONje.ME/avatars/darker.jpg
 tags: [saas,software,service,hosted,online,self hosted,service,linux,monthly,yearly,subscriptions]
 ---
 
