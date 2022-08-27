@@ -4,6 +4,7 @@ url: https://server.docs.cronje.me
 branding:
   title: CRONje.ME Server Docs
   label: Docs
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
