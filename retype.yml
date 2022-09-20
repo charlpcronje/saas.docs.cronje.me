@@ -1,9 +1,9 @@
 input: src
 output: public
-url: https://server.docs.cronje.me
+url: http://kali.docs.cronje.me
 branding:
-  title: CRONje.ME Server Docs
-  label: Docs
+  title: CRONJje.ME | SaaS Docs
+  label: SaaS
 favicon: ./favicon.png
 links:
 - text: Dashboard
@@ -22,3 +22,4 @@ links:
   link: https://www.upwork.com/freelancers/~01ccb1439024ec9c50
 footer:
   copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
+
