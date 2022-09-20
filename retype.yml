@@ -1,6 +1,6 @@
 input: src
 output: public
-url: http://kali.docs.cronje.me
+url: http://saas.docs.cronje.me
 branding:
   title: CRONJje.ME | SaaS Docs
   label: SaaS
